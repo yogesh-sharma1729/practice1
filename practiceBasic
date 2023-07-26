@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>first webPage</title>
+</head> 
+<body bgcolor="gray">
+<h1 title="this is title" align="center">mathura</h1>
+<hr> 
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF-Rolp0StN0KT7G1205TCovBY2AQolB_lOQ&usqp=CAU" width="50%" height="250px">
+<p align="center" style="color:blue;">land of lord krishna</p><br><br><hr>
+<a href="https://en.wikipedia.org/wiki/Mathura"><h1>about</h1></a> <br><br>
+<hr>
+<p align="center" style="color:green;">created by:Yogesh Sharma</p> 
+
+</body>
+</html>

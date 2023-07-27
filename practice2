@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>learning html</title>
+</head>
+<body> 
+<!-- heading-->
+<h1 style="font-size:60px;">welcome to my page!!..</h1>
+<!-- paragraph-->
+<p style="color:blue;">something about Ramanujam</p>
+<p style="background-color:gray">
+Srinivasa Ramanujan FRS (/ˈsriːnɪvɑːsə rɑːˈmɑːnʊdʒən/;[1] born Srinivasa Ramanujan Aiyangar, <br><br>
+IPA: [sriːniʋaːsa ɾaːmaːnud͡ʑan ajːaŋgar]; 22 December 1887 – 26 April 1920)[2][3] was an <br>
+Indian mathematician. Though he had almost no formal training in pure mathematics, he made<br>
+ substantial contributions to mathematical analysis, number theory, infinite series, and<br>
+  continued fractions, including solutions to mathematical problems then considered unsolvable.<br><hr>
+</p> 
+<!-- pre tag example--> 
+<pre> 
+
+<p style="color:red">
+The Road Not Taken 
+__________________BY ROBERT FROST</p>
+<hr> <p style="background-color:green">
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.</p>
+</pre>
+<!-- style tag --> 
+<p>HTML</p> <!-- normal text -->
+<p style="color:pink">HTML</p>
+<p style="background-color:green">HTML</p>
+<p style="font-size:50px">HTML</p>
+<p style="font-family:arial;">HTML</p> 
+<br><hr>
+<!-- html formatting element -->
+<b>Srinivasa Ramanujan</b> FRS (/ˈsriːnɪvɑːsə rɑːˈmɑːnʊdʒən/;[1] born <i>>Srinivasa Ramanujan Aiyangar</i>, <br><br>
+IPA: [sriːniʋaːsa ɾaːmaːnud͡ʑan ajːaŋgar]; <strong>>22 December 1887 – 26 April 1920</strong>)[2][3] was an <br>
+<mark>Indian mathematician</mark>. Though he had almost no formal training in <small>pure mathematics</small>, he made<br>
+ substantial contributions to mathematical analysis, number theory, infinite series, and<br>
+  continued fractions, including solutions to<em> mathematical</em> problems then considered <del>solvable</del><ins>unsolvable</ins>.<br><br> 
+  <p style="color:blue">subscipt: H<sub>2</sub>O</p>
+  <p style="background-color:orange">superscript: x<sup>100</sup></p> 
+  <hr>
+  <!-- quotation -->
+  
+ <p style="color:red;"> buddha said,<q>All that we are is the result of what we have thought.</q></p>  
+ <hr>
+  <p style="color:blue;"><abbr title="HYper Text Markup Language">HTML</abbr></p> 
+   <p style="color:green;"><bdo dir="rtl">this is a text</bdo></p>
+   <p style="color:green;"><bdo dir="ltr">this is a text</bdo></p> 
+   <hr>
+   <address> 
+ <pre> mathura 
+   uttar pradesh </pre>
+   </address> 
+   <hr> 
+   <br>
+   <!-- border color --> 
+   <p style="border:10px solid blue;">example of border!!</p> 
+   <p style="border:10px solid rgba(255,0,0);">example of border!!</p> 
+  <p style="border:10px solid hsla(0, 41%, 50%);">hsl color code implementation!!</p>
+</body>
+</html>

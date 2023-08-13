@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>table</title>
+</head>
+<body> 
+ <span style="float:left;margin:50px;">
+   <table border="1" width="400px" height="400px" cellspacing="0px" cellpadding="60px"> 
+	<tr> 
+	    <td rowspan="2" bgcolor="orange">A</td>  
+		<td bgcolor="green">B</td>
+	</tr> 
+	<tr> 
+	    <td bgcolor="gray">C</td> 
+	</tr>  
+	<tr> 
+	  <td bgcolor="pink">D</td>
+	  <td bgcolor="red">E</td>
+	</tr>
+	</table>
+</span>
+<span style="float:left;margin:50px;border:2px solid blue;font-size:25px;color:red;background-color:green;">
+ <= this table is created by yogesh kumar sharma
+</span>
+</body>
+</html>
